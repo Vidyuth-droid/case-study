@@ -1,16 +1,12 @@
 body{
-    background-color: rgb(255, 231, 169);
-    color: rgb(151, 234, 255);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
-.heading{
-    width: 80%;
-    font-size: 22px;
+.bottle{
+    height: 150px;
+    width: 150px;
 }
-#camera{
-    border: 2px dashed rgb(28, 21, 85);
-    width: 350px;
-    height: 300px;
-}
-.name_of_objects,#result_object_name,#result_object_accuracy{
-    color: rgb(207, 170, 255);
+.pen{
+    height: 150px;
+    width: 150px;
 }
